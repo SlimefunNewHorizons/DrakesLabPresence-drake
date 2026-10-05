@@ -1,13 +1,13 @@
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/DrakesCraft-Labs/DrakesLabPresence-drake/main/banner.svg" alt="DrakesLabPresence-drake Banner" width="920" />
+  <img src="https://raw.githubusercontent.com/SlimefunNewHorizons/DrakesLabPresence-drake/main/banner.svg" alt="DrakesLabPresence-drake Banner" width="920" />
 
 # ⚡ DrakesLabPresence-drake
 
 **SLIMEFUN4 ADDON · DRAKES EDITION**
 
 <p>
-  <a href="https://github.com/DrakesCraft-Labs/DrakesLabPresence-drake"><img src="https://img.shields.io/badge/GitHub-DrakesLabPresence-drake-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
+  <a href="https://github.com/SlimefunNewHorizons/DrakesLabPresence-drake"><img src="https://img.shields.io/badge/GitHub-DrakesLabPresence-drake-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
   <img src="https://img.shields.io/badge/Slimefun4-Drake_Edition-22C55E?style=for-the-badge&logo=curseforge&logoColor=white" alt="Slimefun4"/>
   <img src="https://img.shields.io/badge/Paper-1.21.11-38BDF8?style=for-the-badge&logo=minecraft&logoColor=white" alt="Paper 1.21.11"/>
   <img src="https://img.shields.io/badge/Java-21-F89820?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java 21"/>
@@ -51,7 +51,7 @@ Todo el contenido, recetas y maquinaria se desbloquean e investigan directamente
 |---|---|
 | **Servidor** | Paper / Purpur / Folia **1.21.11** |
 | **Java** | **Java 21** LTS |
-| **Core** | [Slimefun4-Drake](https://github.com/DrakesCraft-Labs/Slimefun4-Drake) |
+| **Core** | [Slimefun4-Drake](https://github.com/SlimefunNewHorizons/Slimefun4-Drake) |
 | **Lado** | 100% Servidor (Server-side) |
 
 ---
@@ -66,7 +66,7 @@ Todo el contenido, recetas y maquinaria se desbloquean e investigan directamente
 
 <div align="center">
 
-**Desarrollado y Mantenido por [DrakesCraft Labs](https://github.com/DrakesCraft-Labs)**  
+**Desarrollado y Mantenido por [DrakesCraft Labs](https://github.com/SlimefunNewHorizons)**  
 Licencia **GPL-3.0-only** / **MIT**.
 
 </div>
@@ -75,6 +75,6 @@ Licencia **GPL-3.0-only** / **MIT**.
 
 ## 📄 License & Intellectual Property
 
-Copyright © 2026 [**JackStar6677-1**](https://github.com/JackStar6677-1) · [**DrakesCraft Labs**](https://github.com/DrakesCraft-Labs). All Rights Reserved.
+Copyright © 2026 [**JackStar6677-1**](https://github.com/JackStar6677-1) · [**DrakesCraft Labs**](https://github.com/SlimefunNewHorizons). All Rights Reserved.
 
 This software is **Source-Available** for public inspection and technical audit. Redistribution, commercial repackaging, or unauthorized derivative distribution without explicit written permission from the author is strictly prohibited.
